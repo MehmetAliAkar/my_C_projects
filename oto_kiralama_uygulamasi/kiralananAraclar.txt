@@ -1,0 +1,5 @@
+
+arac bilgileri    : 1	renault	symbol	250
+musteri bilgileri : mehmet	akar	hatay	05359028073
+odenecek tutar = 750
+------------------------

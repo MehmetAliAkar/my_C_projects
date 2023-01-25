@@ -1,0 +1,6 @@
+
+1	renault        	symbol         	250
+2	fiat           	egea           	270
+3	hyundai        	tucson         	300
+4	volkswagen     	jetta          	290
+5	bmw            	m3             	350
